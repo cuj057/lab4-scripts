@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for i in $( bash scripting tutorial ); do
+	 echo $i
+
+done
+
